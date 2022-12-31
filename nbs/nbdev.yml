@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tabmeta"
+  site-url: "https://gautam-e.github.io/tabmeta"
+  description: "A library for logging (meta) data in a tabular format"
+  repo-branch: main
+  repo-url: "https://github.com/gautam-e/tabmeta"
